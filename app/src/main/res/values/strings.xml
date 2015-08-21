@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Daily Joke</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dailySeries">THE \nDAILY \nSERIES</string>
+    <string-array name="TrialString">
+        <item>Test1</item>
+        <item>Test2</item>
+        <item>Test3</item>
+    </string-array>
+    <string name="title_activity_punch_line">PunchLine</string>
+    <string name="punchlineButtonText">Get Punchline</string>
+    <string name="punchlineText">This is the punchline.</string>
+    <string name="setUpText">This is the setup Text</string>
+
+
+</resources>
